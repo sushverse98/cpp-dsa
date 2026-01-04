@@ -1,4 +1,6 @@
 #include<bits/stdc++.h>
+#define REP(i,n) for(long long i=0;i<n;i++)
+
 using namespace std;
 
 int sush(){}
