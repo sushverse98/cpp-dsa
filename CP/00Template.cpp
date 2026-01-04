@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 #define REP(i,n) for(long long i=0;i<n;i++)
+#define REP(i,m,n) for(long long i=m;i<n;i++)
+#define RREP(i,n) for(long long i=n-1;i>=0;i--)
 
 using namespace std;
 
