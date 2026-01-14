@@ -1,0 +1,12 @@
+🔴 Level 5 — Arrays (must for DSA)
+1. Find the second largest element in an array.
+2. Find the smallest and largest element in an array.
+3. Reverse an array in place.
+4. Check whether an array is sorted.
+5. Find the frequency of each element in an array.
+🔥 Level 6 — Real Logic Challenges
+6. Merge two arrays into a third array.
+7. Remove duplicates from an unsorted array.
+8. Rotate an array to the right by K steps.
+9. Find the missing number in an array of size N (1 to N+1).
+10. Find the first repeating element in an array.
